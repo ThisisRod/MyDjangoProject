@@ -28,3 +28,4 @@ Bootstrap 5.2
 
 Back-End
 Python 3.10.4
+Django 4.0
